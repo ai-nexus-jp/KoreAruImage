@@ -1,6 +1,6 @@
-# 🤖 KoreAruImage
+# 🤖 Gemini Visual Reasoning: 高度な視覚推論とオブジェクト検出アプリケーション
 
-**KoreAruImage** is a powerful yet simple tool that leverages Google's Gemini 2.5 Flash model to perform advanced visual reasoning. This application allows users to upload a target object and a scene, and the AI determines if the object is present and describes its context (e.g., "The coffee mug is on the wooden desk").
+**Gemini Visual Reasoning** is a powerful yet simple tool that leverages Google's Gemini 2.5 Flash model to perform advanced visual reasoning. This application allows users to upload a target object and a scene, and the AI determines if the object is present and describes its context (e.g., "The coffee mug is on the wooden desk").
 
 This project demonstrates the integration of multimodal AI capabilities into a user-friendly web interface, showcasing the potential of Generative AI in computer vision tasks.
 
@@ -23,7 +23,7 @@ This project demonstrates the integration of multimodal AI capabilities into a u
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ai-nexus-jp/KoreAruImage.git
+    git clone https://github.com/ai-nexus-jp/gemini-visual-reasoning.git
     ```
 
 2.  **Create and activate a virtual environment:**
